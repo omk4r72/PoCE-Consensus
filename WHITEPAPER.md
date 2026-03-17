@@ -4,9 +4,9 @@
 
 **Author:** Omkar  
 **Affiliation:** Independent Security Research  
-**Contact:** [your-email]  
-**Version:** 1.0 — 2024  
-**Repository:** https://github.com/YOUR_USERNAME/PoCE-Consensus
+**Contact:** chavhanomkar702@gmail.com
+**Version:** 3.0 — 2026 
+**Repository:** [Link](https://github.com/omk4r72/PoCE-Consensus/edit/main/WHITEPAPER.md)
 
 ---
 
