@@ -6,7 +6,7 @@
 **Affiliation:** Independent Security Research  
 **Contact:** chavhanomkar702@gmail.com
 **Version:** 3.0 — 2026 
-**Repository:** [Link](https://github.com/omk4r72/PoCE-Consensus/edit/main/WHITEPAPER.md)
+**Repository:**  [Link](https://github.com/omk4r72/PoCE-Consensus/edit/main/WHITEPAPER.md)
 
 ---
 
