@@ -1,0 +1,10 @@
+<svg width="800" height="120" viewBox="0 0 800 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="48" font-weight="900">
+    PoCE: Proof of Clean Execution
+    <animate attributeName="fill" values="#00FF9C;#00E5FF;#FFEA00;#FF0054;#00FF9C" dur="6s" repeatCount="indefinite" />
+  </text>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#888888">
+    A Malware-Resistant Blockchain Consensus Protocol
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" />
+  </text>
+</svg>
