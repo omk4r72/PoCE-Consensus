@@ -166,6 +166,6 @@ If you use PoCE in your research:
   title   = {PoCE: Proof of Clean Execution — A Malware-Resistant Blockchain Consensus Protocol},
   author  = {Omkar},
   year    = {2024},
-  note    = {https://github.com/YOUR_USERNAME/PoCE-Consensus}
+  note    = {https://github.com/omk4r72/PoCE-Consensus/}
 }
 ```
