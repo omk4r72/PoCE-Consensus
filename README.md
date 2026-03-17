@@ -9,7 +9,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg?style=for-the-badge)](https://github.com/omk4r72/PoCE-Consensus/graphs/commit-activity)
 [![Security Checked](https://img.shields.io/badge/Security-Checked-success?style=for-the-badge&logo=white-source)](https://github.com/omk4r72/PoCE-Consensus/)
 
-### 🛡️ A blockchain consensus protocol that cryptographically excludes malware-compromised validators.
+###  A blockchain consensus protocol that cryptographically excludes malware-compromised validators.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌩️ The Problem
+## The Problem
 
 Every major blockchain today — **Bitcoin, Ethereum, Solana, Avalanche** — selects validators based on **computational power** (PoW) or **token stake** (PoS). Neither mechanism checks whether the validator node itself has been compromised.
 
@@ -30,7 +30,7 @@ PoCE (Proof of Clean Execution) solves this by ensuring that only "healthy" node
 
 ---
 
-## 🚀 What PoCE Does Differently
+##  What PoCE Does Differently
 
 PoCE introduces the **AttestationChain** — a per-node, epoch-linked cryptographic record of binary integrity.
 
@@ -49,7 +49,7 @@ graph LR
 
 ---
 
-## 🧠 Algorithm: Validator Score
+## Algorithm: Validator Score
 
 The selection weight is calculated using a multi-factor scoring system:
 
@@ -60,7 +60,7 @@ $$VS(v) = 0.40 \times \text{stake} + 0.30 \times \text{reputation} + 0.20 \times
 
 ---
 
-## 🤝 Consensus Protocol
+## Consensus Protocol
 
 A high-performance **Three-Phase BFT** with VRF-based leader election:
 
@@ -71,7 +71,7 @@ A high-performance **Three-Phase BFT** with VRF-based leader election:
 
 ---
 
-## 📊 Comparison with Existing Algorithms
+##  Comparison with Existing Algorithms
 
 | Property | PoW | PoS | PBFT | **PoCE** |
 | :--- | :---: | :---: | :---: | :---: |
@@ -93,7 +93,7 @@ A high-performance **Three-Phase BFT** with VRF-based leader election:
 
 ---
 
-## 🛠️ Build & Run
+##  Build & Run
 
 ### Requirements
 - `g++` with C++17 support
