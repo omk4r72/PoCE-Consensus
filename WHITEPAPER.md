@@ -494,7 +494,7 @@ ValidatorScore(i, e) {
 ## Appendix B — Build and Reproduce
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PoCE-Consensus
+git clone https://github.com/omk4r72/PoCE-Consensus/
 cd PoCE-Consensus
 g++ -O2 -std=c++17 poce_full.cpp -o poce
 ./poce
