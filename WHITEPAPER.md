@@ -2,7 +2,7 @@
 
 ## A Malware-Resistant Blockchain Consensus Protocol
 
-**Author:** Omkar  
+**Author:** Omkar Chavhan 
 **Affiliation:** Independent Security Research  
 **Contact:** chavhanomkar702@gmail.com
 **Version:** 3.0 — 2026 
