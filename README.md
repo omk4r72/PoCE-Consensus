@@ -116,7 +116,7 @@ g++ -O2 -std=c++17 poce_full.cpp -o poce
 
 ## 👨‍💻 Author
 
-**Omkar** — Security Researcher  
+**Omkar Chavhan (omk4r72)** — Security Researcher  
 *Specialization: Malware Analysis, Reverse Engineering, Blockchain Security*
 
 ---
