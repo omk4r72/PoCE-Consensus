@@ -139,7 +139,6 @@ For trusted execution environments (TEE), replace with remote attestation report
 PoCE-Consensus/
 ├── poce_full.cpp      — complete single-file implementation
 ├── README.md          — this file
-└── WHITEPAPER.md      — full research paper
 ```
 
 ---
@@ -164,8 +163,8 @@ If you use PoCE in your research:
 ```bibtex
 @misc{poce2024,
   title   = {PoCE: Proof of Clean Execution — A Malware-Resistant Blockchain Consensus Protocol},
-  author  = {Omkar},
-  year    = {2024},
+  author  = {Omkar Chavhan},
+  year    = {2026},
   note    = {https://github.com/omk4r72/PoCE-Consensus/}
 }
 ```
