@@ -120,7 +120,3 @@ g++ -O2 -std=c++17 poce_full.cpp -o poce
 *Specialization: Malware Analysis, Reverse Engineering, Blockchain Security*
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**. Feel free to fork and build upon it!
